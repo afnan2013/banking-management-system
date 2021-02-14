@@ -1,0 +1,56 @@
+*{
+	color : #E1E2E6;
+
+}
+
+
+.bg{
+	background: url("images/bg.jpg") no-repeat;
+	width : 100%;
+	height: 100vh;
+}
+
+.form-container1{
+	padding: 50px 60px;
+	margin-top: 16vh;
+	-webkit-box-shadow: 6px 6px 23px 12px rgba(0,0,0,0.75);     
+	-moz-box-shadow: 6px 6px 23px 12px rgba(0,0,0,0.75);
+	box-shadow: 6px 6px 23px 12px rgba(0,0,0,0.75);
+}
+
+.header{
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: 'Itim', cursive;
+ 	text-shadow: 2px 2px 2px #aaa;
+}
+
+
+.form-group{
+	font-family: 'Itim', cursive;
+}
+
+.lb1{
+	font-family: 'Raleway', sans-serif;
+	padding-top: 20px;
+	font-style: italic;
+}
+
+.form-container2{
+	padding: 0px 60px;
+}
+
+
+.bg_registration{
+	background: url("images/bg2.jpg") no-repeat;
+	width : 100%;
+	height: 100vh;
+}
+
+
+
+/* Sidebar Style */
+
+
+
+
